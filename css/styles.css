@@ -604,6 +604,19 @@ pre code {
   margin-left: -0.75rem;
 }
 
+/*only added because one card is used (email)*/
+.centering-row {
+  /* display: flex; */
+  /* flex-wrap: wrap;
+  margin-right: -0.75rem;
+  margin-left: -0.75rem; */
+  text-align: center;
+}
+/*only added because one card is used (email)*/
+.centering-col {
+  display: inline-block;
+}
+
 .no-gutters {
   margin-right: 0;
   margin-left: 0;
